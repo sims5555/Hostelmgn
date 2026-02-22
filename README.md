@@ -3,7 +3,7 @@ Hostels
 ## 📸 Screenshots
 
 ### 🎓 Student student
-![Student Login](student-20login.png)
+![Student Login](student-login.png)
 
 ### 👨‍💼 Admin Dashboard
 ![Admin Dashboard](admin-dashboard.png)
@@ -12,4 +12,4 @@ Hostels
 ![Student Dashboard](student-dashboard.png)
 
 ### 🛏 Room Allocation
-![Room Allocation](roomom-allocation.png)
+![Room Allocation](room-allocation.png)
