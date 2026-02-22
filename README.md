@@ -3,7 +3,7 @@ Hostels
 ## 📸 Screenshots
 
 ### 🎓 Student student
-![Student Login](student%20login.png)
+![Student Login](student-20login.png)
 
 ### 👨‍💼 Admin Dashboard
 ![Admin Dashboard](admin-dashboard.png)
